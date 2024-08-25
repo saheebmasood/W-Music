@@ -133,6 +133,12 @@ button:hover {
     justify-content: space-between;
 
 }
+#volumeControl {
+    
+      width: 80%;
+    margin: 0 10px;
+    
+    }
 
 #progressBar {
     width: 80%;
