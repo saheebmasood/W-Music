@@ -34,7 +34,7 @@ document.addEventListener("DOMContentLoaded", function() {
         { title: 'Pal', artist: ' Javed-Mohsin, Samuel & Akanksha, Tanishk Bagchi', file: 'https://aac.saavncdn.com/619/14531944c089c3c9c318e0b73b4b8ee8_160.mp4', albumArt: 'https://c.saavncdn.com/619/Jalebi-Hindi-2018-20180921123431-500x500.jpg' },
         { title: 'Dance Monkey', artist: 'Tones and I', file: 'https://themamaship.com/music/Catalog/Dance%20Monkey%20-%20Tones%20and%20I.mp3', albumArt: 'https://i.scdn.co/image/ab67616d0000b2732259742879137c15e1a0fa1f' },
         { title: 'Abhi Abhi', artist: 'KK', file: 'https://aac.saavncdn.com/198/8b68fbba0c3c0ea2ce0c01e82b2af966_160.mp4', albumArt: 'https://c.saavncdn.com/198/Jism-2-Hindi-2012-20211217161016-500x500.jpg' },
-        { title: 'Perfect', artist: 'Ed Sheeran', file: 'https://themamaship.com/music/Catalog/Perfect%20-%20Ed%20Sheeran.mp3', albumArt: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT3_DmF-D7Nfee1Iu5Z_ftUYlW03gOsb_ZMQ&s' },
+        { title: 'Chal Diye Tum Kahan', artist: 'Ahad Khan, Usama Ali', file: 'https://aac.saavncdn.com/744/2279c4c2bd2fc15d10bb473f7ad7728f_160.mp4', albumArt: 'https://c.saavncdn.com/744/Kabhi-Main-Kabhi-Tum-Original-Motion-Picture-Soundtrack-Urdu-2024-20240615153212-500x500.jpg' },
         { title: 'Perfect', artist: 'Ed Sheeran', file: 'https://rb.gy/e11s9o', albumArt: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT3_DmF-D7Nfee1Iu5Z_ftUYlW03gOsb_ZMQ&s' },
         { title: 'Nadaaniyan', artist: 'Akshath', file: 'https://sambalpuristar.in/files/download?id=7197', albumArt: 'https://c.saavncdn.com/722/nadaaniyan-Hindi-2024-20240517212238-500x500.jpg' },
         
