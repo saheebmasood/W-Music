@@ -35,8 +35,8 @@ document.addEventListener("DOMContentLoaded", function() {
         { title: 'Dance Monkey', artist: 'Tones and I', file: 'https://themamaship.com/music/Catalog/Dance%20Monkey%20-%20Tones%20and%20I.mp3', albumArt: 'https://i.scdn.co/image/ab67616d0000b2732259742879137c15e1a0fa1f' },
         { title: 'Abhi Abhi', artist: 'KK', file: 'https://aac.saavncdn.com/198/8b68fbba0c3c0ea2ce0c01e82b2af966_160.mp4', albumArt: 'https://c.saavncdn.com/198/Jism-2-Hindi-2012-20211217161016-500x500.jpg' },
         { title: 'Chal Diye Tum Kahan', artist: 'Ahad Khan, Usama Ali', file: 'https://aac.saavncdn.com/744/2279c4c2bd2fc15d10bb473f7ad7728f_160.mp4', albumArt: 'https://c.saavncdn.com/744/Kabhi-Main-Kabhi-Tum-Original-Motion-Picture-Soundtrack-Urdu-2024-20240615153212-500x500.jpg' },
-        { title: 'Perfect', artist: 'Ed Sheeran', file: 'https://rb.gy/e11s9o', albumArt: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT3_DmF-D7Nfee1Iu5Z_ftUYlW03gOsb_ZMQ&s' },
-        { title: 'Nadaaniyan', artist: 'Akshath', file: 'https://sambalpuristar.in/files/download?id=7197', albumArt: 'https://c.saavncdn.com/722/nadaaniyan-Hindi-2024-20240517212238-500x500.jpg' },
+        { title: 'O Maahi', artist: 'Pritam, Arijit Singh, Irshad Kamil', file: 'https://aac.saavncdn.com/139/61036495c7ba45adf72a856b60f054fd_160.mp4', albumArt: 'https://c.saavncdn.com/139/Dunki-Hindi-2023-20231220211003-500x500.jpg' },
+        { title: 'Samjhawan', artist: 'Jawad Ahmed, Sharib Toshi, Arijit Singh, Shreya Ghoshal', file: 'https://aac.saavncdn.com/540/f807aad8e5c60a87334231f72267c725_160.mp4', albumArt: 'https://c.saavncdn.com/540/Humpty-Sharma-Ki-Dulhania-Hindi-2014-20190618095042-500x500.jpg' },
         
         
     ];
